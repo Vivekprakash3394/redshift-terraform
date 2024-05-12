@@ -1,0 +1,3 @@
+bucket = "fes-terraform-au"
+key    = "state/redshift/au.tfstate"
+region = "ap-southeast-2"
